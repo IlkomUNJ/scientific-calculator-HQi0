@@ -2,7 +2,11 @@
 
 Nama : Haqqi Triananda Afari
 
-Nim : 1313623038
+NIM : 1313623038
+
+Collaboration : AI
+
+AI Usage : promptss folder
 
 # ScientificApplication
 This is blank template with the exception of this readme. You are free to push anything to this repo that are related to the homework. 
